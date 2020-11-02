@@ -63,7 +63,7 @@ Add the various things that you are working on.
 #### CONTRIBUTING
 
 
-For any concerns, please open an [issue{earlycamp}](https://github.com/muondu/earlycamp/issues), or JUST, [fork the project and send a pull request(https://github.com/muondu/trees/pulls) or Join our discord group Link above. 
+For any concerns, please open an [issue{trees}](https://github.com/muondu/trees/issues), or JUST, [fork the project and send a pull request(https://github.com/muondu/trees/pulls) or Join our discord group Link above. 
 
 
 <hr>
